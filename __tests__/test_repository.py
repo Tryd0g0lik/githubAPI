@@ -1,4 +1,4 @@
-import pytest
+"""This is test of GitHub REST API"""
 import time
 from repositories import create_repo, repo_exists, delete_repo
 

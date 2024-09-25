@@ -1,3 +1,4 @@
+"""This's a part of CRUD functions. It's for a GitHub REST API"""
 import requests
 from dotenv_ import BASE_URL, GITHUB_TOKEN, GITHUB_USERNAME
 
