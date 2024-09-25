@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "t-githubapi"
+version = "0.1.0"
+description = ""
+authors = ["Tryd0g0lik <work80@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.group.dev.dependencies]
+requests = "^2.32.3"
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
